@@ -1,0 +1,20 @@
+excel data 
+
+import data in power bi 
+
+check data 
+
+data cleaning 
+
+data modeling 
+
+data visualizaton  
+
+
+power query  
+
+dax in power bi 
+
+
+
+
