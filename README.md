@@ -1,11 +1,11 @@
 # event_attnedance-data-
-This repository contains an Excel analysis of event![Screenshot 2024-03-17 175943](https://github.com/karthik9810/event_attnedance-data-/assets/86787986/f8e13655-e0cf-40b2-8ff9-51a1a85a75cb)
+This repository contains an Excel analysis of event
  attendance data, providing insights into participation trends and demographics. Explore visualizations and findings to optimize future event planning
 
-excel data ![Uploading Screenshot 2024-03-17 175943.png…]()
+excel data
 
+import data in power bi ![Uploading Screenshot 2024-03-17 175932.png…]()
 
-import data in power bi 
 
 check data 
 
